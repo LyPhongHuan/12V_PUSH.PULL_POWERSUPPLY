@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C? Old Footprint=CA-ALU-18RH New Footprint=CP4/12
+Change Component Comment : Designator=C? Old Comment=CN-ALU-DIP New Comment=220uF/450V
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CA-ALU-18RH"; UniqueID = "\DXXTXCKI" ("\DXXTXCKI")
+Change component parameters (AddParameter): Name = "Value"; Value = "220uF/450V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PWR12V15A Member=Component C? MOV
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 474/1200V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/450V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? MOV
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 474/1200V

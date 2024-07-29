@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetC?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetBR?_1 Pin=Q?-2
+Added Pin To Net: NetName=NetBR?_4 Pin=Q?-3
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? MOV
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 474/1200V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? MOV
+Added Room: Name=PWR12V15A

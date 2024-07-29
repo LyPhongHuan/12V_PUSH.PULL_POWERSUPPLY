@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=GND_PRI Pin=C?-2
+Removed Pin From Net: NetName=GND_PRI Pin=L?-3
+Removed Pin From Net: NetName=GND_IN Pin=R?-1
+Removed Pin From Net: NetName=GND_IN Pin=R?-1
+Change Component Comment : Designator=R? Old Comment=0.01R New Comment=22K
+Change Component Comment : Designator=Q? Old Comment=2SC1815 New Comment=C2633
+Change Component Comment : Designator=R? Old Comment=DIODE Zener New Comment=ZENNER
+Added Component: Designator=C?(CN1)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIO-2A)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIO-2A)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TO92-123)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R?(DIO-2A-ZEN)
+Added Component: Designator=R?(R1/2W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R1/2W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R1/2W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R1/2W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_P1 Pin=L?-1
+Added Pin To Net: NetName=AC-N Pin=L?-3
+Added Pin To Net: NetName=GND_PRI Pin=L?-3
+Added Pin To Net: NetName=GND_PRI Pin=L?-4
+Added Pin To Net: NetName=VCC_TL494 Pin=R?-2
+Added Pin To Net: NetName=VCC_TL494 Pin=R?-2
+Added Pin To Net: NetName=GND_OUT Pin=C?-2
+Added Pin To Net: NetName=GND_OUT Pin=D?-2
+Added Pin To Net: NetName=GND_OUT Pin=Q?-1
+Added Pin To Net: NetName=GND_OUT Pin=R?-1
+Added Pin To Net: NetName=GND_OUT Pin=R?-1
+Added Pin To Net: NetName=GND_OUT Pin=R?-1
+Added Pin To Net: NetName=GND_OUT Pin=R?-1
+Added Pin To Net: NetName=GND_OUT Pin=R?-1
+Added Pin To Net: NetName=GND_OUT Pin=R?-1
+Added Pin To Net: NetName=GND_OUT Pin=U?-7
+Added Pin To Net: NetName=GND_OUT Pin=U?-9
+Added Pin To Net: NetName=GND_OUT Pin=U?-10
+Added Net: Name=GND_OUT
+Added Pin To Net: NetName=OUT1 Pin=Q?-3
+Added Pin To Net: NetName=OUT1 Pin=R?-1
+Added Pin To Net: NetName=OUT1 Pin=R?-2
+Added Pin To Net: NetName=OUT1 Pin=U?-8
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=Q?-3
+Added Pin To Net: NetName=OUT2 Pin=R?-1
+Added Pin To Net: NetName=OUT2 Pin=R?-2
+Added Pin To Net: NetName=OUT2 Pin=U?-11
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT_1ISO Pin=Q?-2
+Added Pin To Net: NetName=OUT_1ISO Pin=R?-2
+Added Net: Name=OUT_1ISO
+Added Pin To Net: NetName=OUT_2ISO Pin=Q?-2
+Added Pin To Net: NetName=OUT_2ISO Pin=R?-2
+Added Net: Name=OUT_2ISO
+Added Member To Class: ClassName=PWR12V15A Member=Component C? JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 4.7uF/63V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 4.7uF/63V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? CAP-gom
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 103/1kV
+Added Member To Class: ClassName=PWR12V15A Member=Component C? X2 0.22uF
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 103/1kV
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C? X2 0.1uF
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 105J/400V
+Added Member To Class: ClassName=PWR12V15A Member=Component D? 1N4148
+Added Member To Class: ClassName=PWR12V15A Member=Component D? MBR30100
+Added Member To Class: ClassName=PWR12V15A Member=Component D? FR107
+Added Member To Class: ClassName=PWR12V15A Member=Component D? FR107
+Added Member To Class: ClassName=PWR12V15A Member=Component D? 1N4007
+Added Member To Class: ClassName=PWR12V15A Member=Component D? FR157
+Added Member To Class: ClassName=PWR12V15A Member=Component D? 1N4007
+Added Member To Class: ClassName=PWR12V15A Member=Component D? FR157
+Added Member To Class: ClassName=PWR12V15A Member=Component L? INDUC-FILT
+Added Member To Class: ClassName=PWR12V15A Member=Component Q? C2633
+Added Member To Class: ClassName=PWR12V15A Member=Component Q? 13009
+Added Member To Class: ClassName=PWR12V15A Member=Component Q? 13009
+Added Member To Class: ClassName=PWR12V15A Member=Component R? ZENNER
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 22K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 0.01R
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 47/2W
+Added Member To Class: ClassName=PWR12V15A Member=Component R? ZENNER
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 150K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 2.2R
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 820K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 2.2R
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 300K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 1.5K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 15R
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 1.5K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 0.01R
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 3.9K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 3.9K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 15R
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 150K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 3.9K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 1.5K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 300K

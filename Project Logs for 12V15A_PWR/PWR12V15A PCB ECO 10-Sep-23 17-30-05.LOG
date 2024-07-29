@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=Q?-1
+Change Component Comment : Designator=C? Old Comment=474/1200V New Comment=X2 0.1uF
+Change Component Comment : Designator=C? Old Comment=474/1200V New Comment=X2 0.22uF
+Change Component Comment : Designator=BR? Old Comment=DIODE-BRIDGE New Comment=KBJ410
+Change Component Comment : Designator=Q? Old Comment=H1061 New Comment=13009
+Change Component Comment : Designator=C? Old Comment=MOV New Comment=JNC222
+Change Component Comment : Designator=C? Old Comment=MOV New Comment=JNC222
+Added Component: Designator=C?(CAP-POLY-22mm)
+Added Component: Designator=C?(JY103M_2KV)
+Added Component: Designator=R?(R1W)
+Add component (AddParameter): Name = "Value"; Value = "R1W - 100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R1W)
+Add component (AddParameter): Name = "Value"; Value = "R1W - 100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=+150V Pin=C?-2
+Added Pin To Net: NetName=+150V Pin=L?-2
+Added Net: Name=+150V
+Added Pin To Net: NetName=+310V Pin=BR?-1
+Added Pin To Net: NetName=+310V Pin=C?-1
+Added Pin To Net: NetName=+310V Pin=R?-1
+Added Net: Name=+310V
+Added Pin To Net: NetName=GND_SEC Pin=BR?-4
+Added Pin To Net: NetName=GND_SEC Pin=C?-2
+Added Pin To Net: NetName=GND_SEC Pin=R?-1
+Added Net: Name=GND_SEC
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? X2 0.1uF
+Added Member To Class: ClassName=PWR12V15A Member=Component C? JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C? JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 103/1kV
+Added Member To Class: ClassName=PWR12V15A Member=Component C? X2 0.22uF
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component L? INDUC-FILT
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 150K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 820K

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=L1-1
+Removed Pin From Net: NetName=NetBR1_2 Pin=L1-2
+Removed Pin From Net: NetName=AC-N Pin=L1-3
+Removed Pin From Net: NetName=NetBR1_3 Pin=L1-4
+Removed Member From Class: ClassName=PWR12V15A Member=L1
+Added Component: Designator=L?(LF)
+Added Pin To Net: NetName=AC-N Pin=L?-1
+Added Pin To Net: NetName=NetBR1_3 Pin=L?-2
+Added Pin To Net: NetName=NetC5_2 Pin=L?-3
+Added Pin To Net: NetName=NetBR1_2 Pin=L?-4
+Added Member To Class: ClassName=PWR12V15A Member=Component L? INDUC-FILT
+Added Room: Name=PWR12V15A

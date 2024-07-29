@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+150V Pin=L?-2
+Added Component: Designator=D?(D2A)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-204-AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N4448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R1W)
+Add component (AddParameter): Name = "Value"; Value = "R1W - 100"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R2W)
+Add component (AddParameter): Name = "Value"; Value = "R2W - 47"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R1W)
+Add component (AddParameter): Name = "Value"; Value = "R1W - 100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+150V Pin=C?-1
+Added Pin To Net: NetName=+150V Pin=L?-2
+Added Pin To Net: NetName=NetBR?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R?-2
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 103/1kV
+Added Member To Class: ClassName=PWR12V15A Member=Component C? JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C? JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C? X2 0.22uF
+Added Member To Class: ClassName=PWR12V15A Member=Component C? X2 0.1uF
+Added Member To Class: ClassName=PWR12V15A Member=Component D? Diode
+Added Member To Class: ClassName=PWR12V15A Member=Component L? INDUC-FILT
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 2.2R
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 47/2W
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 150K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 820K
+Added Member To Class: ClassName=PWR12V15A Member=Component R? 300K

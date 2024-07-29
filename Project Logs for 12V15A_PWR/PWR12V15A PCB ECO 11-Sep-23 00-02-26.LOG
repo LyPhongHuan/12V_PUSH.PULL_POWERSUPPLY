@@ -1,0 +1,343 @@
+Removed Pin From Net: NetName=GND_PRI Pin=L?-3
+Removed Pin From Net: NetName=GND_PRI Pin=L?-4
+Removed Pin From Net: NetName=GND_OUT Pin=Q?-1
+Removed Pin From Net: NetName=GND_OUT Pin=R?-1
+Change Component Comment : Designator=R? Old Comment=47/2W New Comment=100R
+Change Component Comment : Designator=C1 Old Comment=2200uF/16V New Comment=1000uF/16V
+Change Component Designator: OldDesignator=BR? NewDesignator=BR1
+Change Component Designator: OldDesignator=C1 NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=NTC? NewDesignator=NTC1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C11(CP2/4)
+Add component (AddParameter): Name = "Description 1"; Value = "4700uF-6800uF/6,3V - 3300uF-4700uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "2200uF-3300uF/16V - 470uF => 2200uF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "1000uF/35V-50V_470uF/63V_220uF>330uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "47uF => 100uF/160V - 33uF-47uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "47uF/200V - 22uF/350V - 400V - 10uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CP2/4)
+Add component (AddParameter): Name = "Description 1"; Value = "4700uF-6800uF/6,3V - 3300uF-4700uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "2200uF-3300uF/16V - 470uF => 2200uF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "1000uF/35V-50V_470uF/63V_220uF>330uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "47uF => 100uF/160V - 33uF-47uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "47uF/200V - 22uF/350V - 400V - 10uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CP2/4)
+Add component (AddParameter): Name = "Description 1"; Value = "4700uF-6800uF/6,3V - 3300uF-4700uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "2200uF-3300uF/16V - 470uF => 2200uF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "1000uF/35V-50V_470uF/63V_220uF>330uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "47uF => 100uF/160V - 33uF-47uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "47uF/200V - 22uF/350V - 400V - 10uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CP2/4)
+Add component (AddParameter): Name = "Description 1"; Value = "4700uF-6800uF/6,3V - 3300uF-4700uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "2200uF-3300uF/16V - 470uF => 2200uF/25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "1000uF/35V-50V_470uF/63V_220uF>330uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "47uF => 100uF/160V - 33uF-47uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "47uF/200V - 22uF/350V - 400V - 10uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2200uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=D8(DIO-2A)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D9(DIO-2A)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=L2()
+Added Component: Designator=L3()
+Added Component: Designator=R24(R1/2W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R1/2W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R1/2W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=T1()
+Added Component: Designator=VR1(VR)
+Add component (AddParameter): Name = "Value"; Value = "VR 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C11-1
+Added Pin To Net: NetName=GND_OUT Pin=C11-2
+Added Pin To Net: NetName=+12V Pin=C12-1
+Added Pin To Net: NetName=GND_OUT Pin=C12-2
+Added Pin To Net: NetName=+12V Pin=C16-1
+Added Pin To Net: NetName=GND_OUT Pin=C16-2
+Added Pin To Net: NetName=+12V Pin=C17-1
+Added Pin To Net: NetName=GND_OUT Pin=C17-2
+Added Pin To Net: NetName=+12V Pin=C19-1
+Added Pin To Net: NetName=GND_OUT Pin=C19-2
+Added Pin To Net: NetName=GND_OUT Pin=D9-2
+Added Pin To Net: NetName=NetC?_2 Pin=L1-1
+Added Pin To Net: NetName=AC-N Pin=L1-3
+Added Pin To Net: NetName=NetBR?_3 Pin=L1-4
+Added Pin To Net: NetName=+12V Pin=R24-2
+Added Pin To Net: NetName=IN1+ Pin=R25-1
+Added Pin To Net: NetName=IN1+ Pin=R28-1
+Added Pin To Net: NetName=GND_OUT Pin=VR1-1
+Added Pin To Net: NetName=GND_OUT Pin=VR1-2
+Change Net Name : Old Net Name=NetBR?_2 New Net Name=NetBR1_2
+Change Net Name : Old Net Name=NetBR?_3 New Net Name=NetBR1_3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ5_3
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR26_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R4-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=D1-2
+Added Pin To Net: NetName=NetC10_1 Pin=D2-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R14-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=D3-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=R9-1
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=D3-3
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=D5-1
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=D6-1
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R17-2
+Added Pin To Net: NetName=NetC18_2 Pin=R18-2
+Added Pin To Net: NetName=NetC18_2 Pin=R19-2
+Added Pin To Net: NetName=NetC18_2 Pin=R20-1
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R24-1
+Added Pin To Net: NetName=NetC21_2 Pin=R25-2
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=R33-1
+Added Pin To Net: NetName=NetC22_1 Pin=U1-3
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=R29-1
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_1 Pin=R26-1
+Added Pin To Net: NetName=NetC23_1 Pin=R27-1
+Added Pin To Net: NetName=NetC23_1 Pin=R30-1
+Added Pin To Net: NetName=NetC23_1 Pin=R34-1
+Added Pin To Net: NetName=NetC23_1 Pin=U1-13
+Added Pin To Net: NetName=NetC23_1 Pin=U1-14
+Added Net: Name=NetC23_1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=D10-2
+Added Pin To Net: NetName=NetC23_2 Pin=R34-2
+Added Pin To Net: NetName=NetC23_2 Pin=R38-1
+Added Pin To Net: NetName=NetC23_2 Pin=U1-4
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=R33-2
+Added Net: Name=NetC24_1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=R27-2
+Added Pin To Net: NetName=NetC24_2 Pin=R37-1
+Added Pin To Net: NetName=NetC24_2 Pin=U1-15
+Added Net: Name=NetC24_2
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=NetC26_2 Pin=U1-5
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R9-2
+Added Pin To Net: NetName=NetD3_2 Pin=R14-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R15-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R7-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R19-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR28_2 Pin=VR1-3
+Added Net: Name=NetR28_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=U1-6
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=PULL Pin=D8-1
+Added Pin To Net: NetName=PULL Pin=Q1-1
+Added Pin To Net: NetName=PULL Pin=Q4-1
+Added Pin To Net: NetName=PULL Pin=R7-1
+Added Pin To Net: NetName=PULL Pin=R22-1
+Added Net: Name=PULL
+Added Pin To Net: NetName=SWI Pin=R4-2
+Added Net: Name=SWI
+Added Member To Class: ClassName=PWR12V15A Member=Component C2 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C3 105J/400V
+Added Member To Class: ClassName=PWR12V15A Member=Component C4 102/1kV
+Added Member To Class: ClassName=PWR12V15A Member=Component C5 X2 0.22uF
+Added Member To Class: ClassName=PWR12V15A Member=Component C6 X2 0.1uF
+Added Member To Class: ClassName=PWR12V15A Member=Component C7 220uF/250V
+Added Member To Class: ClassName=PWR12V15A Member=Component C8 JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C9 JNC222
+Added Member To Class: ClassName=PWR12V15A Member=Component C10 47uf/50V
+Added Member To Class: ClassName=PWR12V15A Member=Component C11 1000uF/16V
+Added Member To Class: ClassName=PWR12V15A Member=Component C12 1000uF/16V
+Added Member To Class: ClassName=PWR12V15A Member=Component C13 102/1kV
+Added Member To Class: ClassName=PWR12V15A Member=Component C14 102/1kV
+Added Member To Class: ClassName=PWR12V15A Member=Component C15 4.7uF/63V
+Added Member To Class: ClassName=PWR12V15A Member=Component C16 1000uF/16V
+Added Member To Class: ClassName=PWR12V15A Member=Component C17 1000uF/16V
+Added Member To Class: ClassName=PWR12V15A Member=Component C18 4.7uF/63V
+Added Member To Class: ClassName=PWR12V15A Member=Component C19 1000uF/16V
+Added Member To Class: ClassName=PWR12V15A Member=Component C20 2A222J
+Added Member To Class: ClassName=PWR12V15A Member=Component C21 2A333J
+Added Member To Class: ClassName=PWR12V15A Member=Component C22 2A103J
+Added Member To Class: ClassName=PWR12V15A Member=Component C23 1uF/63V
+Added Member To Class: ClassName=PWR12V15A Member=Component C24 2A103J
+Added Member To Class: ClassName=PWR12V15A Member=Component C25 47uf/50V
+Added Member To Class: ClassName=PWR12V15A Member=Component C26 2A102J
+Added Member To Class: ClassName=PWR12V15A Member=Component D1 FR107
+Added Member To Class: ClassName=PWR12V15A Member=Component D2 FR107
+Added Member To Class: ClassName=PWR12V15A Member=Component D3 MBR30100
+Added Member To Class: ClassName=PWR12V15A Member=Component D4 FR157
+Added Member To Class: ClassName=PWR12V15A Member=Component D5 1N4007
+Added Member To Class: ClassName=PWR12V15A Member=Component D6 1N4007
+Added Member To Class: ClassName=PWR12V15A Member=Component D7 FR157
+Added Member To Class: ClassName=PWR12V15A Member=Component D8 1N4148
+Added Member To Class: ClassName=PWR12V15A Member=Component D9 1N4148
+Added Member To Class: ClassName=PWR12V15A Member=Component Q1 C2633
+Added Member To Class: ClassName=PWR12V15A Member=Component Q2 13009
+Added Member To Class: ClassName=PWR12V15A Member=Component Q4 C2633
+Added Member To Class: ClassName=PWR12V15A Member=Component Q5 C1815
+Added Member To Class: ClassName=PWR12V15A Member=Component R1 150K
+Added Member To Class: ClassName=PWR12V15A Member=Component R2 820K
+Added Member To Class: ClassName=PWR12V15A Member=Component R3 150K
+Added Member To Class: ClassName=PWR12V15A Member=Component R4 100R
+Added Member To Class: ClassName=PWR12V15A Member=Component R5 3.9K
+Added Member To Class: ClassName=PWR12V15A Member=Component R6 300K
+Added Member To Class: ClassName=PWR12V15A Member=Component R7 ZENNER
+Added Member To Class: ClassName=PWR12V15A Member=Component R8 2.2R
+Added Member To Class: ClassName=PWR12V15A Member=Component R9 100R
+Added Member To Class: ClassName=PWR12V15A Member=Component R10 1.5K
+Added Member To Class: ClassName=PWR12V15A Member=Component R11 0.01R
+Added Member To Class: ClassName=PWR12V15A Member=Component R12 0.01R
+Added Member To Class: ClassName=PWR12V15A Member=Component R13 3.9K
+Added Member To Class: ClassName=PWR12V15A Member=Component R14 100R
+Added Member To Class: ClassName=PWR12V15A Member=Component R15 15R
+Added Member To Class: ClassName=PWR12V15A Member=Component R16 1.5K
+Added Member To Class: ClassName=PWR12V15A Member=Component R17 300K
+Added Member To Class: ClassName=PWR12V15A Member=Component R18 15R
+Added Member To Class: ClassName=PWR12V15A Member=Component R19 2.2R
+Added Member To Class: ClassName=PWR12V15A Member=Component R20 3.9K
+Added Member To Class: ClassName=PWR12V15A Member=Component R21 3.9K
+Added Member To Class: ClassName=PWR12V15A Member=Component R22 ZENNER
+Added Member To Class: ClassName=PWR12V15A Member=Component R23 1.5K
+Added Member To Class: ClassName=PWR12V15A Member=Component R24 9.1K
+Added Member To Class: ClassName=PWR12V15A Member=Component R25 680R
+Added Member To Class: ClassName=PWR12V15A Member=Component R27 100K
+Added Member To Class: ClassName=PWR12V15A Member=Component R28 2.2K
+Added Member To Class: ClassName=PWR12V15A Member=Component R29 47K
+Added Member To Class: ClassName=PWR12V15A Member=Component R30 5.6K
+Added Member To Class: ClassName=PWR12V15A Member=Component R31 6.8K
+Added Member To Class: ClassName=PWR12V15A Member=Component R32 5.6K
+Added Member To Class: ClassName=PWR12V15A Member=Component R33 10K
+Added Member To Class: ClassName=PWR12V15A Member=Component R34 100K
+Added Member To Class: ClassName=PWR12V15A Member=Component R35 1.5K
+Added Member To Class: ClassName=PWR12V15A Member=Component R36 22K
+Added Member To Class: ClassName=PWR12V15A Member=Component R37 1.2K
+Added Member To Class: ClassName=PWR12V15A Member=Component R38 12K
+Added Member To Class: ClassName=PWR12V15A Member=Component VR1 1K

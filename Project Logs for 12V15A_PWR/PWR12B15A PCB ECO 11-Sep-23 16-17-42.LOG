@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=AC-L Pin=J1-1
+Removed Pin From Net: NetName=AC-L Pin=J1-2
+Removed Pin From Net: NetName=AC-N Pin=J1-3
+Removed Pin From Net: NetName=AC-N Pin=J1-4
+Removed Pin From Net: NetName=EARTH Pin=J2-1
+Removed Pin From Net: NetName=EARTH Pin=J2-2
+Removed Pin From Net: NetName=EARTH Pin=J2-3
+Removed Pin From Net: NetName=+12V Pin=J3-1
+Removed Pin From Net: NetName=+12V Pin=J3-2
+Removed Pin From Net: NetName=GND_OUT Pin=J3-3
+Removed Pin From Net: NetName=GND_OUT Pin=J3-4
+Removed Pin From Net: NetName=GND_OUT Pin=J3-5
+Removed Member From Class: ClassName=PWR12V15A Member=J1
+Removed Member From Class: ClassName=PWR12V15A Member=J2
+Removed Member From Class: ClassName=PWR12V15A Member=J3

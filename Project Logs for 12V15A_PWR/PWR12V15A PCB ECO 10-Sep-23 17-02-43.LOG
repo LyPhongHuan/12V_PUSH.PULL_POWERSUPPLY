@@ -1,0 +1,49 @@
+Added Component: Designator=C?(C8MM)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "?"; VariantName = "[No Variations]"
+Added Component: Designator=C?(X2 0.22uF)
+Added Component: Designator=C?(MOV-14D)
+Added Component: Designator=C?(MOV-14D)
+Added Component: Designator=L?(LF)
+Added Component: Designator=NTC?(XD-13)
+Added Component: Designator=R?(R1W)
+Add component (AddParameter): Name = "Value"; Value = "R1W - 100"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DIP16)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "06-Jun-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 16 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC-L Pin=NTC?-1
+Added Net: Name=AC-L
+Added Pin To Net: NetName=AC-N Pin=C?-1
+Added Pin To Net: NetName=AC-N Pin=L?-3
+Added Pin To Net: NetName=AC-N Pin=R?-1
+Added Net: Name=AC-N
+Added Pin To Net: NetName=EARTH Pin=C?-1
+Added Pin To Net: NetName=EARTH Pin=C?-1
+Added Net: Name=EARTH
+Added Pin To Net: NetName=NetBR?_2 Pin=C?-2
+Added Pin To Net: NetName=NetBR?_2 Pin=C?-2
+Added Pin To Net: NetName=NetBR?_2 Pin=L?-2
+Added Net: Name=NetBR?_2
+Added Pin To Net: NetName=NetBR?_3 Pin=C?-1
+Added Pin To Net: NetName=NetBR?_3 Pin=C?-2
+Added Pin To Net: NetName=NetBR?_3 Pin=L?-4
+Added Net: Name=NetBR?_3
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-1
+Added Pin To Net: NetName=NetC?_2 Pin=NTC?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Added Class: Name=PWR12V15A
+Added Room: Name=PWR12V15A
